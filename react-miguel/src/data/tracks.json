@@ -1,0 +1,44 @@
+{
+    "songs": [
+      {
+        "id": 1,
+        "title": "This Is What It Feels Like",
+        "artist": "Armin van Buuren"
+      },
+      {
+        "id": 2,
+        "title": "Adagio for Strings",
+        "artist": "Tiësto"
+      },
+      {
+        "id": 3,
+        "title": "Exploration of Space",
+        "artist": "Cosmic Gate"
+      },
+      {
+        "id": 4,
+        "title": "Titanium",
+        "artist": "David Guetta"
+      },
+      {
+        "id": 5,
+        "title": "Animals",
+        "artist": "Martin Garrix"
+      },
+      {
+        "id": 6,
+        "title": "We Found Love",
+        "artist": "Calvin Harris"
+      },
+      {
+        "id": 7,
+        "title": "Strobe",
+        "artist": "Deadmau5"
+      },
+      {
+        "id": 8,
+        "title": "One More Time",
+        "artist": "Daft Punk"
+      }
+    ]
+  }

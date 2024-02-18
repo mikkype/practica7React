@@ -1,0 +1,39 @@
+{
+    "djs" :[
+    {
+      "id": 1,
+      "name": "Armin van Buuren",
+      "genre": "Trance"
+    },
+    {
+      "id": 2,
+      "name": "Tiësto",
+      "genre": "Trance"
+    },
+    {
+      "id": 3,
+      "name": "David Guetta",
+      "genre": "House"
+    },
+    {
+      "id": 4,
+      "name": "Martin Garrix",
+      "genre": "House"
+    },
+    {
+      "id": 5,
+      "name": "Calvin Harris",
+      "genre": "House"
+    },
+    {
+      "id": 6,
+      "name": "Deadmau5",
+      "genre": "Electrónica"
+    },
+    {
+      "id": 7,
+      "name": "Daft Punk",
+      "genre": "Electrónica"
+    }
+  ]
+}
