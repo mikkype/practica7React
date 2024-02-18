@@ -28,15 +28,22 @@ h1{
   color: aqua;
 }
 
-.library{
+.library .list{
   display: flex;
   justify-content: center;
-  color: chocolate;
+  color: rgb(79, 54, 192);
+  justify-content: space-between;
 }
 
 .books{
   display: flex;
   justify-content: space-between;
+}
+
+.library .booklist{
+  display: flex;
+  justify-content: center;
+  color: brown;
 }
 
 .footer {

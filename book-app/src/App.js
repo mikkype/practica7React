@@ -1,8 +1,9 @@
 import './assets/css/App.css';
 import HeaderComponent from './components/header';
 import LibraryComponent from './components/library';
-import BookComponent from './components/book';
+
 import FooterComponent from './components/footer';
+import BookComponent from './components/book';
 
 function App() {
 
@@ -19,7 +20,7 @@ function App() {
       </div>
 
       <div className="books">
-        <BookComponent />
+
       </div>
 
       <div>
