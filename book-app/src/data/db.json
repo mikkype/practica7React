@@ -1,40 +1,47 @@
 {
-    "books" : [
-    {
-        "title": "El Principito",
-        "author": "Antoine de Saint-Exupéry",
-        "genre": "Fábula",
-        "year": 1943
-    },
-    {
-        "title": "Cien años de soledad",
-        "author": "Gabriel García Márquez",
-        "genre": "Realismo mágico",
-        "year" :1967
-    },
-    {
-        "title": "Harry Potter y la piedra filosofal",
-        "author": "J.K. Rowling",
-        "genre": "Fantasía",
-        "year" :1997
-    },
-    {
-        "title": "1984",
-        "author": "George Orwell",
-        "genre": "Distopía",
-        "year" :1949
-    },
-    {
-        "title": "Orgullo y prejuicio",
-        "author": "Jane Austen",
-        "genre": "Romance",
-        "year" : 1813
-    },
-    {
-        "title": "El señor de los anillos",
-        "author": "J.R.R. Tolkien",
-        "genre": "Fantasía",
-        "year" :1954
-    }
-]
+    "books": [
+        {
+            "title": "El señor de los anillos",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasía",
+            "year": 1954,
+            "available" : true
+
+        },
+        {
+            "title": "Cien años de soledad",
+            "author": "Gabriel García Márquez",
+            "genre": "Realismo mágico",
+            "year": 1967,
+            "available" : false
+        },
+        {
+            "title": "Harry Potter y la piedra filosofal",
+            "author": "J.K. Rowling",
+            "genre": "Fantasía",
+            "year": 1997,
+            "available" : true
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Distopía",
+            "year": 1949,
+            "available" : false
+        },
+        {
+            "title": "Orgullo y prejuicio",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "year": 1813,
+            "available" : false
+        },
+        {
+            "title": "El Principito",
+            "author": "Antoine de Saint-Exupéry",
+            "genre": "Fábula",
+            "year": 1943,
+            "available" : true
+        }
+    ]
 }
